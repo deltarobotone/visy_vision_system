@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [ 
+ <!ATTLIST svg 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print"  
+                                               dsy:text-version CDATA #IMPLIED > 
+
+                                               <!ATTLIST text 
+                                               xmlns:dsy CDATA #FIXED "http://www.3ds.com/print" 
+                                               dsy:text-version CDATA #IMPLIED > 
+                                                ]>
+<svg style = "background : rgb(255,255,255)" width = "297mm" xmlns = "http://www.w3.org/2000/svg" height = "210mm" version = "1.1" viewBox = "0 0 297 210" xmlns:dsy = "http://www.3ds.com/print" xmlns:xlink = "http://www.w3.org/1999/xlink" dsy:text-version = "21000"><g fill = "none" stroke = "rgb(255, 0, 0)" stroke-width = "0.13" stroke-linecap = "butt" stroke-linejoin = "miter"><path d = "M 185 112.5 L 180 112.5"/><path d = "M 185.00002 112.49999 A 1 1 0 0 0 186.00002 111.49999"/><path d = "M 186 111.5 L 186 98.5"/><path d = "M 186.00002 98.499992 A 1 1 0 0 0 185.00002 97.499992"/><path d = "M 180 97.5 L 185 97.5"/><path d = "M 111 98.5 L 111 111.5"/><path d = "M 112.00002 97.499992 A 1 1 0 0 0 111.00002 98.499992"/><path d = "M 111.00002 111.49999 A 1 1 0 0 0 112.00002 112.49999"/><path d = "M 112 97.5 L 117 97.5"/><path d = "M 117 112.5 L 112 112.5"/><path d = "M 179 117.5 L 118 117.5"/><path d = "M 179.00002 117.49999 A 1 1 0 0 0 180.00002 116.49999"/><path d = "M 117.00002 116.49999 A 1 1 0 0 0 118.00002 117.49999"/><path d = "M 180 116.5 L 180 112.5"/><path d = "M 117 112.5 L 117 116.5"/><path d = "M 117 93.5 L 117 97.5"/><path d = "M 118.00002 92.499992 A 1 1 0 0 0 117.00002 93.499992"/><path d = "M 180 97.5 L 180 93.5"/><path d = "M 180.00002 93.499992 A 1 1 0 0 0 179.00002 92.499992"/><path d = "M 118 92.5 L 179 92.5"/><circle r = "3.25" cx = "148.50002" cy = "104.99999"/></g></svg>

@@ -21,6 +21,10 @@ Facebook: Deltarobotone
 
 Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFRA)
 
+# Visy system image
+
+<iframe src="https://onedrive.live.com/embed?cid=16134ACDDAE49D4E&resid=16134ACDDAE49D4E%21108&authkey=ACLwkJMo4XIJSS4" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+
 # Visy assembly
 
 The visy vision system is designed as a kit. You have to do some assembly steps on your own. The following pages guide you to all assembly steps including pictures and information. Check your tools and parts first and if it's all there take some time (about 4 hours) to build the system. Let's start this practical, educational and interesting experience.

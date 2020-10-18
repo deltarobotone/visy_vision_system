@@ -1,6 +1,6 @@
 # Welcome vision friends! 
 
-This is a Rapsberry Pi and Raspberry camera based vision system project for Malers and students. A neopixel light ring provides illumination for the vision tasks. An integrated status bar is used to inform the user of application states. In the first way it is designed to extend the [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot) project to push it to the next level. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
+This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. A installed neopixel light ring provides adjustable illumination for vision tasks. An integrated status bar coule bei used to inform the user at different application states. In the first way visy is designed to extend the [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot) project to push it to the next level. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)
@@ -22,7 +22,7 @@ Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFR
 
 Visy comes with a Raspberry Pi 3 system image including
 
-- Ubuntu 16.04 LXDE Desktop
+- Ubuntu 16.04 LXDE Desktop 
 - ROS Kinetic
 - Visy workspace
 - Autostart for visy packages

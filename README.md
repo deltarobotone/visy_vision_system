@@ -23,7 +23,15 @@ Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFR
 
 # Visy system image
 
-<iframe src="https://onedrive.live.com/embed?cid=16134ACDDAE49D4E&resid=16134ACDDAE49D4E%21108&authkey=ACLwkJMo4XIJSS4" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+For the visy project we provide a raspberry pi 3 system image including
+
+- Ubuntu 16.04 LXDE Desktop
+- ROS Kinetic
+- Visy workspace
+- Autostart for visy packages
+- 3.5" touchscreen driver
+
+Down load the image [here](https://1drv.ms/u/s!Ak6d5NrNShMWbGWBAE_wLZKFaYs?e=Y8fECA) and follow the instructions on [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).
 
 # Visy assembly
 

@@ -1,13 +1,11 @@
 # Welcome vision friends! 
 
-This is a Rapsberry Pi based and Raspberry camera based vision system. The neopixel light ring provides illumination for the vision tasks. An integrated status bar is used to inform the user of application states. In the first way it is designed to extend the [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot) Project to push it to the next level. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
+This is a Rapsberry Pi and Raspberry camera based vision system project for Malers and students. A neopixel light ring provides illumination for the vision tasks. An integrated status bar is used to inform the user of application states. In the first way it is designed to extend the [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot) project to push it to the next level. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(62).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(62).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(63).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(63).PNG)
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 

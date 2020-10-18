@@ -31,9 +31,9 @@ For the visy project we provide a raspberry pi 3 system image including
 - Autostart for visy packages
 - 3.5" touchscreen driver
 
-Download the image using the link below and follow the instructions on [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).
+Download the image using the link below and follow the instructions at [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).
 
-[***>>>visy system image_v_0_1<<<***](https://1drv.ms/u/s!Ak6d5NrNShMWbGWBAE_wLZKFaYs?e=Y8fECA)
+[***>>>visy system image<<<***](https://1drv.ms/u/s!Ak6d5NrNShMWbGWBAE_wLZKFaYs?e=Y8fECA)
 
 # Visy assembly
 

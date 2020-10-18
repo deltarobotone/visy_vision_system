@@ -4,12 +4,11 @@ This is a Rapsberry Pi and Raspberry camera based vision system project for Male
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
-# Direct link -> [***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
+[***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
 
 # Social Media
 
@@ -21,7 +20,7 @@ Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFR
 
 # Visy system image
 
-For the visy project we provide a raspberry pi 3 system image including
+Visy comes with a Raspberry Pi 3 system image including
 
 - Ubuntu 16.04 LXDE Desktop
 - ROS Kinetic

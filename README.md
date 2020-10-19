@@ -22,10 +22,10 @@ We are working for more then 2 years on this project after university or work. B
 
 Visy comes with a Raspberry Pi 3 system image including
 
-- Ubuntu 16.04 LXDE Desktop 
-- ROS Kinetic
+- Ubuntu 16.04 LXDE desktop 
+- ROS kinetic
 - ROS workspace including all visy packages
-- Autostart sevices for visy packages
+- Autostart services for visy packages
 - 3.5" touchscreen driver
 
 Download the image using the link below and follow the instructions at [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).
@@ -90,7 +90,7 @@ You can try your own 3D-Printer but we did not test any FDM printer yet.
 
 # User-Interface
 
-We build an simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button. By default it is possible to start and stop the sorting application. 
+We build a simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button and usw the Ubuntu Desktop for your own stuff. By default it is possible to start and stop the sorting application. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
 
@@ -103,7 +103,7 @@ With the arrows you can change the displayed image processing state. At this tim
 Note: The system detects the conveyor system realy slow because it uses the complete image. After that only the cropped conveyor system is used to detect the metal chips.
 
 The last button in row activates the update script. It is neccessary to connect the system to the internet using wifi or cable. 
-Note: The systems gets the latest commits from master branches on github
+Note: The systems gets the latest commits from master branches on github and delete all data at the packages (hard reset).
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 

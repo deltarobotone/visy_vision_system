@@ -94,6 +94,24 @@ The case for visy is splitted in three parts. A base part for the most of all el
 
 You can try your own 3D-Printer but we did not test any FDM printer yet.
 
+# Holder
+
+As an additional part for conveyor system we provide a holder for visy. 
+
+[>>>Partlist<<<](https://github.com/deltarobotone/visy_vision_system/wiki/Step-2:-Check-your-parts)
+
+[>>>Files<<<](https://github.com/deltarobotone/visy_vision_system/tree/master/holder)
+
+***How to get the parts?*** There are many ways...
+
+- You can use a lasercutter in a Techshop/Makerspace or your School/University
+- We ordered from [cutcraft](http://cutcraft.de/) a few times so we can recommend this service
+- We don't try it but with a 3D-Printer it has to be possible to create the layers too
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
+
 # User-Interface
 
 We created a simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button and use the ubuntu desktop for your own stuff. By default it is possible to start and stop the sorting application. 
@@ -114,24 +132,6 @@ The last button in row activates the update script. It is neccessary to connect 
 Note: The systems gets the latest commits from master branches on github and delete all data at the packages on the system (hard reset).
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
-
-# Holder
-
-As an additional part for conveyor system we provide a holder for visy. 
-
-[>>>Partlist<<<](https://github.com/deltarobotone/visy_vision_system/wiki/Step-2:-Check-your-parts)
-
-[>>>Files<<<](https://github.com/deltarobotone/visy_vision_system/tree/master/holder)
-
-***How to get the parts?*** There are many ways...
-
-- You can use a lasercutter in a Techshop/Makerspace or your School/University
-- We ordered from [cutcraft](http://cutcraft.de/) a few times so we can recommend this service
-- We don't try it but with a 3D-Printer it has to be possible to create the layers too
-
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
 
 # The full system
 

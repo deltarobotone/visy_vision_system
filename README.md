@@ -4,6 +4,10 @@ This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
+
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
 #### [***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
@@ -124,7 +128,7 @@ You can have a look a the other projects using the links below.
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)
 
 # ROS workspace
 

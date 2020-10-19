@@ -14,7 +14,7 @@ With the help of a community (this means you) it could be a world wide education
 
 ### Next steps
 
-We are working for more then 2 years on this project after university or work. Because of that we are a bit late looking at ubuntu, ros and the Raspberry itself. If a few people like this project this means contributing, give stars or donate we will update the project with following points at first.
+We are working for more then 2 years on this project after university or work. Because of that we are a bit late looking at ubuntu, ROS and the Raspberry itself. If a few people like this project this means contributing, give stars or donate we will update the project with following points at first.
 
 - [ ] Update case for Raspberry Pi 4
 - [ ] Update ubuntu to focal 20.04
@@ -116,6 +116,8 @@ Note: The systems gets the latest commits from master branches on github and del
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 
 # The full system
+
+[<img src="http://img.youtube.com/vi/5Ce0-a6Z8nE/0.jpg" width="500">](https://www.youtube.com/watch?v=5Ce0-a6Z8nE)
 
 In the first way visy is designed to extend the Deta-Robot One project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy can do it's predifined jobs:
 

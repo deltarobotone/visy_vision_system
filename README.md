@@ -89,17 +89,34 @@ You can try your own 3D-Printer but we did not test any FDM printer yet.
 
 We build an simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button. By default it is possible to start and stop the sorting application. 
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
 
 With the arrows you can change the displayed image processing state. At this time we included the detected image with coloured lines around conveyor/metalchips. This is the last step at image processing using find contours algorithm. After that first image follows the raw image and some image processing states like hsi, chroma and threshold for binarization. So it is possible to have a look behind the scenes of image processing. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 
 Note: The system detects the conveyor system realy slow because it uses the complete image. After that only the cropped conveyor system is used to detect the metal chips.
 
-# Usage
+The last button in row activates the update script. It is neccessary to connect the system to the internet using wifi or cable. 
+Note: The systems gets the latest commits from master branches on github
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
+
+# ROS workspace
+
+All visy software parts are developed using ROS. We provide software modules called packages in ROS so you could use some of them at your own application. For details have a look at the packages readme files using the links below. On the following picture you see the ROS workspace of visy system.
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(1).PNG" width="1000">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(1).PNG)
+
+- [visy_sorting_app_pkg](https://github.com/deltarobotone/visy_sorting_app_pkg)
+- [visy_detector_pkg](https://github.com/deltarobotone/visy_detector_pkg)
+- [visy_user_interface_pkg](https://github.com/deltarobotone/visy_user_interface_pkg)
+- [one_easy_protocol_pkg](https://github.com/deltarobotone/one_easy_protocol_pkg)
+- [visy_neopixel_pkg](https://github.com/deltarobotone/visy_neopixel_pkg)
+- [raspicam_node](https://github.com/UbiquityRobotics/raspicam_node)
+
+# Software module usage
 
 Visy is developed as a modular system. If you only want to use the lightring/statusbar at visy_neopixel_pkg and the camera_node you can deactivate all other packages of visy system with simple command in terminal. Not: If you deactivate the detector package the camera is also deactivated. Use your own launch file or the launch files provided by [raspicam_node](https://github.com/UbiquityRobotics/raspicam_node) package we installed on visy.
 

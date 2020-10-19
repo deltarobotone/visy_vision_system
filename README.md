@@ -1,6 +1,6 @@
 # Welcome vision friends! 
 
-This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. An integrated neopixel light ring provides adjustable illumination for vision tasks. With the status bar users could be informed about different application states. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
+This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. An integrated neopixel light ring provides adjustable illumination for vision tasks. The status bar could be used to inform users quickly about different application states. The 3,5" touch screen on the backside of the system makes it possible to control applications for example or show the camera image directly on the system. The ROS (Robot Operating System) is the basic framework for software packages we defined for this system. The software functions are stored in ROs packages for illumination, camera, user interface, detectors, robot control and so on. The software is all open source and found at [deltarobotone](https://github.com/deltarobotone). You can use them and/or build your own packages. All in all the system provides a lot of features to develop, implement and use image processing tasks. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
 
@@ -14,8 +14,8 @@ Visy comes with a Raspberry Pi 3 system image including
 
 - Ubuntu 16.04 LXDE Desktop 
 - ROS Kinetic
-- Visy workspace
-- Autostart for visy packages
+- ROS workspace including all visy packages
+- Autostart sevices for visy packages
 - 3.5" touchscreen driver
 
 Download the image using the link below and follow the instructions at [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).

@@ -112,24 +112,6 @@ You can have a look a the other projects using the links below.
 - [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot)
 - [Conveyor System](https://github.com/deltarobotone/conveyor_system)
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)# The full system
-
-In the first way visy is designed to extend the Deta-Robot Ine project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy could do it's predifined jobs:
-
-- Detect conveyor system
-- Control conveyor system
-- Detect metalchips
-- Control Delta-Robot One (grasp planner, pick and place)
-- Sort metal chips by colour
-
-You can have a look a the other projects using the links below.
-
-- [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot)
-- [Conveyor System](https://github.com/deltarobotone/conveyor_system)
-
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)

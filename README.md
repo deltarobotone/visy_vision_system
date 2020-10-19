@@ -8,6 +8,16 @@ With the help of a community (this means you) it could be a world wide education
 
 #### [***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
 
+### Next steps
+
+We are working for more then 2 years on this project after university or work. Because of that we are a bit late lokking at ubuntu, ros and the Raspberry itself. If a few people like this project this means contributing, give stars or donate we will update the project with following points at first.
+
+- [ ] Update case for Raspberry Pi 4
+- [ ] Update ubuntu to focal 20.04
+- [ ] Update ROS to noetic
+- [ ] Install tensorflow or pytorch
+- [ ] Change detectors from opencv to a neural network
+
 # Visy system image
 
 Visy comes with a Raspberry Pi 3 system image including
@@ -147,16 +157,6 @@ sudo systemctl enable launchDetector
 sudo systemctl enable launchUserInterface
 sudo systemctl enable launchSortingApp
 ```
-
-### Next steps
-
-We are working for more then 2 years on this project after university or work. Because of that we are a bit late lokking at ubuntu, ros and the Raspberry itself. If a few people like this project this means contributing, give stars or donate we will update the project with following points at first.
-
-- [ ] Update case for Raspberry Pi 4
-- [ ] Update ubuntu to focal 20.04
-- [ ] Update ROS to noetic
-- [ ] Install tensorflow or pytorch
-- [ ] Change detectors from opencv to a neural network
 
 # Social Media
 

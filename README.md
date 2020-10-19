@@ -115,6 +115,24 @@ Note: The systems gets the latest commits from master branches on github and del
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 
+# Holder for conveyor system
+
+As an additional part for conveyor system we provide a holder for visy. 
+
+[>>>Partlist<<<](https://github.com/deltarobotone/visy_vision_system/wiki/Step-2:-Check-your-parts)
+
+[>>>Files<<<](https://github.com/deltarobotone/visy_vision_system/tree/master/holder)
+
+***How to get the parts?*** There are many ways...
+
+- You can use a lasercutter in a Techshop/Makerspace or your School/University
+- We ordered from [cutcraft](http://cutcraft.de/) a few times so we can recommend this service
+- We don't try it but with a 3D-Printer it has to be possible to create the layers too
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(6).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(11).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
+
 # The full system
 
 [<img src="http://img.youtube.com/vi/5Ce0-a6Z8nE/0.jpg" width="500">](https://www.youtube.com/watch?v=5Ce0-a6Z8nE)
@@ -174,10 +192,6 @@ Instagram: @deltarobotone #deltarobotone
 Facebook: Deltarobotone
 
 Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFRA)
-
-# Video gallery 
-
-coming soon...
 
 # Image gallery
 

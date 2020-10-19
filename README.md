@@ -42,15 +42,15 @@ Wiki: [>>>How to build you visy<<<](https://github.com/deltarobotone/visy_vision
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(35).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(35).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(36).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(36).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(41).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(41).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(50).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(50).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(54).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(54).PNG)
 
 # Visy assembly clip
 
 coming soon...
 
 # Electronics
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(27).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(27).PNG)
 
 [>>>Partlist<<<](https://github.com/deltarobotone/visy_vision_system/wiki/Step-2:-Check-your-parts)
 
@@ -70,6 +70,9 @@ Shop link: [>>>Visy IO Board<<<](https://aisler.net/p/KVFINYWA)
 
 # Case
 
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG)
+
 [>>>Files<<<](https://github.com/deltarobotone/visy_vision_system/tree/master/case)
 
 ***How to get the parts?*** No problem...
@@ -82,12 +85,48 @@ Shop link: [>>>Visy IO Board<<<](https://aisler.net/p/KVFINYWA)
 
 You can try your own 3D-Printer but we did not test any FDM printer yet.
 
+# User-Interface
+
+We build an simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button. By default it is possible to start and stop the sorting application. 
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
+
+With the arrows you can change the displayed image processing state. At this time we included the detected image with coloured lines around conveyor/metalchips. This is the last step at image processing using find contours algorithm. After that first image follows the raw image and some image processing states like hsi, chroma and threshold for binarization. So it is possible to have a look behind the scenes of image processing. 
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
+
+Note: The system detects the conveyor system realy slow because it uses the complete image. After that only the cropped conveyor system is used to detect the metal chips.
+
+# Usage
+
+Visy is developed as a modular system. If you only want to use the lightring/statusbar at visy_neopixel_pkg and the camera_node you can deactivate all other packages of visy system with simple command in terminal. Not: If you deactivate the detector package the camera is also deactivated. Use your own launch file or the launch files provided by [raspicam_node](https://github.com/UbiquityRobotics/raspicam_node) package we installed on visy.
+
+Deactivate visy packages:
+```
+sudo systemctl disable launchNeopixel
+sudo systemctl disable launchDetector
+sudo systemctl disable launchUserInterface
+sudo systemctl disable launchSortingApp
+```
+Activate visy packages:
+```
+sudo systemctl enable launchNeopixel
+sudo systemctl enable launchDetector
+sudo systemctl enable launchUserInterface
+sudo systemctl enable launchSortingApp
+```
+
 # Video gallery 
 
 coming soon...
 
 # Image gallery
 
+img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG)
 
 # Copyright Notice
 

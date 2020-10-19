@@ -8,26 +8,6 @@ With the help of a community (this means you) it could be a world wide education
 
 #### [***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
 
-# The full system
-
-In the first way visy is designed to extend the Deta-Robot Ine project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy could do it's predifined jobs:
-
-- Detect conveyor system
-- Control conveyor system
-- Detect metalchips
-- Control Delta-Robot One (grasp planner, pick and place)
-- Sort metal chips by colour
-
-You can have a look a the other projects using the links below.
-
-- [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot)
-- [Conveyor System](https://github.com/deltarobotone/conveyor_system)
-
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)
-
 # Visy system image
 
 Visy comes with a Raspberry Pi 3 system image including
@@ -117,6 +97,43 @@ Note: The systems gets the latest commits from master branches on github
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 
+# The full system
+
+In the first way visy is designed to extend the Deta-Robot Ine project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy could do it's predifined jobs:
+
+- Detect conveyor system
+- Control conveyor system
+- Detect metalchips
+- Control Delta-Robot One (grasp planner, pick and place)
+- Sort metal chips by colour
+
+You can have a look a the other projects using the links below.
+
+- [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot)
+- [Conveyor System](https://github.com/deltarobotone/conveyor_system)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)# The full system
+
+In the first way visy is designed to extend the Deta-Robot Ine project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy could do it's predifined jobs:
+
+- Detect conveyor system
+- Control conveyor system
+- Detect metalchips
+- Control Delta-Robot One (grasp planner, pick and place)
+- Sort metal chips by colour
+
+You can have a look a the other projects using the links below.
+
+- [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot)
+- [Conveyor System](https://github.com/deltarobotone/conveyor_system)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
+
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
+
 # ROS workspace
 
 All visy software parts are developed using ROS. We provide software modules called packages in ROS so you could use some of them at your own application. For details have a look at the packages readme files using the links below. On the following picture you see the ROS workspace of visy system.
@@ -174,6 +191,10 @@ coming soon...
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)
 
 # Copyright Notice
 

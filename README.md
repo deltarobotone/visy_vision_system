@@ -115,7 +115,7 @@ Note: The systems gets the latest commits from master branches on github and del
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(13).PNG)
 
-# Holder for conveyor system
+# Holder
 
 As an additional part for conveyor system we provide a holder for visy. 
 

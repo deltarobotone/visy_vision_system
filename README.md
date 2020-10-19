@@ -98,9 +98,11 @@ We created a simple user interface for the touch display on the backside of visy
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
 
-With the arrows you can change the displayed image processing state. At this time we included the detected image with coloured lines around conveyor/metalchips. This is the last step at image processing using find contours algorithm and hu moments algorithm for the center point of the metalchip. After that first image the raw image and some image processing states like hsi, chroma and threshold for binarization are following. So it is possible to have a look behind the scenes of image processing. 
+With the arrows you can change the displayed image processing state. At this time we included the detected image with coloured lines around conveyor/metalchips. This is the last step at image processing using find contours algorithm and hu moments algorithm for the center point of the metalchip. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG)
+
+After that first image the raw image and some image processing states like hsi, chroma and threshold for binarization are following. So it is possible to have a look behind the scenes of image processing. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG)
 

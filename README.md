@@ -96,6 +96,8 @@ You can try your own 3D-Printer but we did not test any FDM printer yet.
 
 # Holder
 
+[<img src="http://img.youtube.com/vi/IOfMA8TQANo/0.jpg" width="500">](https://www.youtube.com/watch?v=IOfMA8TQANo)
+
 As an additional part for conveyor system we provide a holder for visy. 
 
 [>>>Partlist<<<](https://github.com/deltarobotone/visy_vision_system/wiki/Step-2:-Check-your-parts)

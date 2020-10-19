@@ -50,7 +50,7 @@ Wiki: [>>>How to build you visy<<<](https://github.com/deltarobotone/visy_vision
 
 # Visy assembly clip
 
-coming soon...
+[<img src="http://img.youtube.com/vi/apGMef29JlQ/0.jpg" width="500">](https://www.youtube.com/watch?v=apGMef29JlQ)
 
 # Electronics
 

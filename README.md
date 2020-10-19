@@ -74,6 +74,8 @@ Shop link: [>>>Visy IO Board<<<](https://aisler.net/p/KVFINYWA)
 
 # Case
 
+The case for visy is splitted in three parts. A base part for the most of all electronic parts like lightring, statusbar, camera and Raspberry Pi. At this time the case is designed for the Pi 3. The part in the middle is a combination of air channels for the cooling system of the Pi and a case for the touchscreen. The case is completetd by the top part.
+
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)

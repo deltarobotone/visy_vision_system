@@ -117,7 +117,7 @@ Note: The systems gets the latest commits from master branches on github and del
 
 # The full system
 
-In the first way visy is designed to extend the Deta-Robot Ine project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy can do it's predifined jobs:
+In the first way visy is designed to extend the Deta-Robot One project to push it to the next level. In combination with Delta-Robot One and the conveyor system visy can do it's predifined jobs:
 
 - Detect conveyor system
 - Control conveyor system

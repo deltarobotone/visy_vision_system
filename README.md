@@ -3,9 +3,6 @@
 This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. An integrated neopixel light ring provides adjustable illumination for vision tasks. The status bar could be used to inform users quickly about different application states. With a 3,5" touch screen on the backside of the system it ist possible to control applications or show the camera image directly on the system. ROS (Robot Operating System) is used as the framework for all software packages we created for this system. The different software functions are part of ROS packages for illumination, camera, user interface, detection, robot control and so on. All in all the system provides a lot of features to develop, implement and use image processing applications. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
-
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
-
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(2).PNG)
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
@@ -127,8 +124,7 @@ You can have a look a the other projects using the links below.
 - [Conveyor System](https://github.com/deltarobotone/conveyor_system)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(1).PNG)
-
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(4).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/full_system_orange/full_system_orange%20(3).PNG)
 
 # ROS workspace
 

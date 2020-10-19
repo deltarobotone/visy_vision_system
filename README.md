@@ -1,6 +1,6 @@
 # Welcome vision friends! 
 
-This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. 
+Visy is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
 

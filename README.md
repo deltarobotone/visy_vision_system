@@ -2,21 +2,11 @@
 
 This is a Rapsberry Pi 3 and Raspberry Camera V2 based vision system project for makers and students. An integrated neopixel light ring provides adjustable illumination for vision tasks. With the status bar users could be informed about different application states. In the first way visy is designed to extend the [Delta-Robot One](https://github.com/deltarobotone/how_to_build_your_robot) project to push it to the next level. If you want to use the system for your own propurses you can deactivate the autostart services of every visy package and develop some own cool apps.
 
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)
-[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
 
 With the help of a community (this means you) it could be a world wide educational project. Working on this project is a lot of fun. Learning something about the different topics and share it with the world is realy great. Be part of it...
 
-[***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
-
-# Social Media
-
-Instagram: @deltarobotone #deltarobotone
-
-Facebook: Deltarobotone
-
-Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFRA)
+#### [***>>>How to build you visy<<<***](https://github.com/deltarobotone/visy_vision_system/wiki)
 
 # Visy system image
 
@@ -41,7 +31,9 @@ The visy vision system is designed as a kit. You have to do some assembly steps 
 Wiki: [>>>How to build you visy<<<](https://github.com/deltarobotone/visy_vision_system/wiki)
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(35).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(35).PNG)
+
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(36).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(36).PNG)
+
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(50).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(50).PNG)
 
 # Visy assembly clip
@@ -71,6 +63,7 @@ Shop link: [>>>Visy IO Board<<<](https://aisler.net/p/KVFINYWA)
 # Case
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(15).PNG)
+
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_parts/visy_parts%20(16).PNG)
 
 [>>>Files<<<](https://github.com/deltarobotone/visy_vision_system/tree/master/case)
@@ -80,7 +73,9 @@ Shop link: [>>>Visy IO Board<<<](https://aisler.net/p/KVFINYWA)
 ...we tested [i.materialise.com](http://i.materialise.com/) and created some shop items so you can easily order the required parts using this links:
 
 [>>>Visy Case Base<<<](https://i.materialise.com/de/shop/item/visy-case-base)
+
 [>>>Visy Case Middle<<<](https://i.materialise.com/de/shop/item/visy-case-middle)
+
 [>>>Visy Case Top<<<](https://i.materialise.com/de/shop/item/visy-case-top)
 
 You can try your own 3D-Printer but we did not test any FDM printer yet.
@@ -94,6 +89,7 @@ We build an simple user interface for the touch display on the backside of visy 
 With the arrows you can change the displayed image processing state. At this time we included the detected image with coloured lines around conveyor/metalchips. This is the last step at image processing using find contours algorithm. After that first image follows the raw image and some image processing states like hsi, chroma and threshold for binarization. So it is possible to have a look behind the scenes of image processing. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(8).PNG)
+
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(11).PNG)
 
 Note: The system detects the conveyor system realy slow because it uses the complete image. After that only the cropped conveyor system is used to detect the metal chips.
@@ -135,13 +131,29 @@ sudo systemctl enable launchUserInterface
 sudo systemctl enable launchSortingApp
 ```
 
+# Social Media
+
+Instagram: @deltarobotone #deltarobotone
+
+Facebook: Deltarobotone
+
+Youtube: [deltarobotone](https://www.youtube.com/channel/UCeqy13LiwtQ1QQTYZzzyFRA)
+
 # Video gallery 
 
 coming soon...
 
 # Image gallery
 
-[img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(57).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(57).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(58).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(59).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(60).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(61).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(62).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(62).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(63).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(63).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(65).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_assembly/visy_assembly%20(65).PNG)
+[<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(19).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(20).PNG)
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG" width="200">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_holder/visy_holder%20(21).PNG)
 

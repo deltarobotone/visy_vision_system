@@ -141,7 +141,7 @@ All visy software parts are developed using ROS. We provide software modules cal
 
 # Software module usage
 
-Visy is developed as a modular system. If you only want to use the lightring/statusbar at visy_neopixel_pkg and the camera_node you can deactivate all other packages of visy system with simple command in terminal. Not: If you deactivate the detector package the camera is also deactivated. Use your own launch file or the launch files provided by [raspicam_node](https://github.com/UbiquityRobotics/raspicam_node) package we installed on visy.
+Visy is developed as a modular system. If you only want to use the lightring/statusbar at visy_neopixel_pkg and the camera_node you can deactivate all other packages of visy system with simple command in terminal. Note: If you deactivate the detector package the camera is also deactivated. Use your own launch file or the launch files provided by [raspicam_node](https://github.com/UbiquityRobotics/raspicam_node) package we installed on visy. If you deactivate the sorting app package the control node for Delta-Robot One is disabled too.
 
 Deactivate visy packages:
 ```

@@ -30,7 +30,7 @@ Visy comes with a Raspberry Pi 3 system image including
 
 Download the image using the link below and follow the instructions at [visy wiki page](https://github.com/deltarobotone/visy_vision_system/wiki/Step-3:-Groundwork).
 
-[***>>>visy system image<<<***](https://1drv.ms/u/s!Ak6d5NrNShMWbGWBAE_wLZKFaYs?e=Y8fECA)
+#### [***>>>visy system image<<<***](https://1drv.ms/u/s!Ak6d5NrNShMWbGWBAE_wLZKFaYs?e=Y8fECA)
 
 # Visy assembly
 
@@ -90,7 +90,7 @@ You can try your own 3D-Printer but we did not test any FDM printer yet.
 
 # User-Interface
 
-We build a simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button and usw the Ubuntu Desktop for your own stuff. By default it is possible to start and stop the sorting application. 
+We build a simple user interface for the touch display on the backside of visy system. The user interface starts automatically after every reboot. It is possible to close the interface using the "X" button and usw the ubuntu desktop for your own stuff. By default it is possible to start and stop the sorting application. 
 
 [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG" width="400">](https://raw.githubusercontent.com/deltarobotone/image_database/master/visy_doc/visy_doc%20(5).PNG)
 
